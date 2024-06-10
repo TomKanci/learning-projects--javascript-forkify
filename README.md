@@ -2,6 +2,10 @@
 
 This project is part of my learning journey in JavaScript. It's a practical implementation of the concepts and skills I've acquired.
 
+## Live Demo
+
+You can view the live version of the Forkify project [here](https://main--tomkanci-javascript-project.netlify.app/).
+
 ## About Forkify
 
 Forkify is a recipe searching app that allows users to search for food recipes and view detailed cooking instructions. It's a great tool for food enthusiasts and home cooks.
